@@ -1,0 +1,6 @@
+rootProject.name = 'RNKitsExample'
+
+include ':app'
+
+include 'react-native-kits'
+project(':react-native-kits').projectDir = new File(rootProject.projectDir, '../react-native-kits/android/react-native-kits')

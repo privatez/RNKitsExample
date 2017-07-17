@@ -1,0 +1,3 @@
+[submodule "react-native-kits"]
+	path = react-native-kits
+	url = https://github.com/privatez/react-native-kits.git
